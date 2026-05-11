@@ -1,0 +1,7 @@
+Native means different layout when the screen is different.
+On iPhone, the map sits in the days content. On Mac, it lives in its own column - always visible while you scroll the timeline.
+Same app. Different shape per screen.
+-
+Link in bio.
+
+#journaling #journalingapp #buildinpublic #indiedev #macdev #ios #macapp #darkmode #appdesign #nativeapp
